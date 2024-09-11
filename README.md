@@ -1,7 +1,3 @@
-Here is a simple copy-paste version of the **README.md** for your GitHub project:
-
----
-
 # Handwritten Digits Classification
 
 This project focuses on classifying handwritten digits using a **Convolutional Neural Network (CNN)**. The dataset used is the well-known **MNIST dataset**, which consists of 70,000 images of handwritten digits (0-9). The goal is to demonstrate how deep learning can be used to achieve high accuracy in image classification tasks.
@@ -87,6 +83,3 @@ Sample predictions:
 
 This project illustrates the use of CNNs for classifying handwritten digits with high accuracy, showcasing the potential of deep learning in solving image classification problems.
 
----
-
-This is ready for direct use in your GitHub repository!
